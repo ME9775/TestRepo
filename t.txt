@@ -1,2 +1,5 @@
 "mmad " 
-masud
+<<<<<<< HEAD
+=======
+amir
+>>>>>>> bugfix
